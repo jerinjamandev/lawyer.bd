@@ -2,14 +2,15 @@ import React from 'react';
 import { useContext } from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
-import { useLoaderData, useNavigate } from 'react-router-dom';
+import { useLoaderData, useNavigate, useParams } from 'react-router-dom';
 import { Apoinmentcontext } from '../provider/Apoinmentprovider';
 import { ToastContainer, toast } from 'react-toastify';
 
 const Lawyerdetails = () => {
     const lawyer = useLoaderData()
     const today = new Date().toLocaleDateString("en-US", { weekday: "long" });
-    const isAvailableToday = lawyer.Availability.includes(today);
+    const isAvailableToday = lawyer?.Availability.includes(today);
+    const {id}=useParams()
 
     const [loading,setloading]=useState(true)
     const navigate=useNavigate()
