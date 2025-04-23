@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 import { useState } from 'react';
 import { Link, useLoaderData, useNavigate, useParams } from 'react-router-dom';
 import { Apoinmentcontext } from '../provider/Apoinmentprovider';
-import { ToastContainer, toast } from 'react-toastify';
+import { toast } from 'react-toastify';
 
 const Lawyerdetails = () => {
     const lawyer = useLoaderData()
