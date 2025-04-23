@@ -42,19 +42,6 @@ const Footer = () => {
                                 </defs>
                             </svg>
                         </a>
-                        <a>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none">
-                                <g clip-path="url(#clip0_13_1620)">
-                                    <path d="M0 0H36V36H0V0Z" fill="#0F0F0F" />
-                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5004 9H8.25L15.6607 18.7886L8.72408 27H11.929L17.1754 20.7894L21.834 26.9428H28.0844L20.4584 16.8698L20.4719 16.8872L27.038 9.11431H23.8331L18.9569 14.8866L14.5004 9ZM11.7001 10.7143H13.6459L24.6343 25.2285H22.6885L11.7001 10.7143Z" fill="white" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_13_1620">
-                                        <rect width="36" height="36" rx="18" fill="white" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </a>
 
                         <a href='https://www.linkedin.com/in/jerin-jaman-67b269355/'target='_blank'>
                             <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none">
