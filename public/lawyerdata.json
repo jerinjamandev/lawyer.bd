@@ -1,0 +1,134 @@
+[
+    {
+      "id": "1",
+      "Image": "https://static.vecteezy.com/system/resources/thumbnails/041/640/124/small_2x/ai-generated-happy-lawyer-cut-out-smiling-lawyer-man-middle-age-on-transparent-background-png.png",
+      "Name": "Barrister Ahsan Rahman",
+      "Available": "Available",
+      "Speciality": "Criminal Law",
+      "Experience": "12+ Years Experience ",
+      "LicenseNumber": "BAR-20231201",
+      "Fee": 120,
+      "Availability": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "id": "2",
+      "Image": "https://t4.ftcdn.net/jpg/02/95/96/79/360_F_295967926_T2nUnmhQc00dwwp3KsvJSPHMP2xhekry.jpg",
+      "Name": "Advocate Nusrat Jahan",
+      "Available": "Available",
+      "Speciality": "Family Law",
+      "Experience": "8+ Years Experience" ,
+      "LicenseNumber": "BAR-20230917",
+      "Fee": 90,
+      "Availability": ["Tuesday", "Thursday", "Saturday"]
+    },
+    {
+      "id": "3",
+      "Image": "https://img.freepik.com/free-photo/executive-with-glasses-working-office_1098-3840.jpg?semt=ais_hybrid&w=740",
+      "Name": "Barrister Kamrul Hasan",
+      "Available": "Available",
+      "Speciality": "Corporate Law",
+      "Experience": "15+ Years Experience ",
+      "LicenseNumber": "BAR-20220812",
+      "Fee": 150,
+      "Availability": ["Monday", "Tuesday", "Friday"]
+    },
+    {
+      "id": "4",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLOxEH5PRdREXmor1Nl_LsBRUqIdiuqCcMEA&s",
+      "Name": "Advocate Farhana Akter",
+      "Available": "Available",
+      "Speciality": "Immigration Law",
+      "Experience": "10+ Years Experience ",
+      "LicenseNumber": "BAR-20211103",
+      "Fee": 100,
+      "Availability": ["Wednesday", "Saturday", "Sunday"]
+    },
+    {
+      "id": "5",
+      "Image": "https://img.freepik.com/free-photo/young-teacher-posing-with-book-white_114579-77704.jpg?semt=ais_hybrid&w=740",
+      "Name": "Advocate Mahfuz Anwar",
+      "Available": "Available",
+      "Speciality": "Intellectual Property Law",
+      "Experience": "18+ Years Experience ",
+      "LicenseNumber": "BAR-20200125",
+      "Fee": 140,
+      "Availability": ["Monday", "Thursday", "Friday"]
+    },
+    {
+      "id": "6",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNWYPm90LlP0Tg3Jmh6j1Ju3pJTtY_wZqRD4eTgTLPjVKdE__yWiG9HTuJBig0Ku3Nq88&usqp=CAU",
+      "Name": "Barrister Tasnim Alam",
+      "Available": "Available",
+      "Speciality": "Environmental Law",
+      "Experience": "7+ Years Experience" ,
+      "LicenseNumber": "BAR-20221119",
+      "Fee": 110,
+      "Availability": ["Tuesday", "Thursday"]
+    },
+    {
+      "id": "7",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzLnnPvPHsDPJHcDOdDnoENfQGPVPbIioIkzr4zaoikDSo6Zz5xiwZWzgfgep5oQjTXY&usqp=CAU",
+      "Name": "Advocate Rafiq Chowdhury",
+      "Available": "Available",
+      "Speciality": "Banking Law",
+      "Experience": "9+ Years Experience" ,
+      "LicenseNumber": "BAR-20191209",
+      "Fee": 130,
+      "Availability": ["Monday", "Wednesday"]
+    },
+    {
+      "id": "8",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvLS_zCtyepEh2RgswX_hMGMY4KPcgsXq50ZerjnbOa04Qqqk6yd3gt0Iozg9WrM53i8M&usqp=CAU",
+      "Name": "Advocate Sumaiya Rahman",
+      "Available": "Available",
+      "Speciality": "Labor Law",
+      "Experience": "6+ Years Experience" ,
+      "LicenseNumber": "BAR-20210405",
+      "Fee": 95,
+      "Availability": ["Wednesday", "Friday", "Sunday"]
+    },
+    {
+      "id": "9",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh7SVr4LIMb3PDr0w2mUScInqFdO2TXmod_3_CHfDRBteY8jYTmJR1H7yfqR2EyA_FA0s&usqp=CAU",
+      "Name": "Barrister Tanvir Alam",
+      "Available": "Available",
+      "Speciality": "Civil Litigation",
+      "Experience": "14+ Years Experience ",
+      "LicenseNumber": "BAR-20180322",
+      "Fee": 125,
+      "Availability": ["Monday", "Thursday", "Saturday"]
+    },
+    {
+      "id": "10",
+      "Image": "https://justatic.com/profile-images/1557723-1662417965-s.jpeg",
+      "Name": "Advocate Laila Siddiqua",
+      "Available": "Available",
+      "Speciality": "Tax Law",
+      "Experience": "11+ Years Experience ",
+      "LicenseNumber": "BAR-20200218",
+      "Fee": 105,
+      "Availability": ["Tuesday", "Friday"]
+    },
+    {
+      "id": "11",
+      "Image": "https://t3.ftcdn.net/jpg/01/57/63/18/360_F_157631844_SCM8uFhZf1zmaMsUToQ4nfs0ylKTKStd.jpg",
+      "Name": "Advocate Jahid Hasan",
+      "Available": "Available",
+      "Speciality": "International Law",
+      "Experience": "13+ Years Experience ",
+      "LicenseNumber": "BAR-20170101",
+      "Fee": 160,
+      "Availability": ["Monday", "Wednesday", "Saturday"]
+    },
+    {
+      "id": "12",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkRnuyrcSmLtNkmuD55MgIChNVH3iP2GKwGiME3Oxfpgj0BROhfZhgpReXKyQ5rwhs-c&usqp=CAU",
+      "Name": "Barrister Nabila Chowdhury",
+      "Available": "Available",
+      "Speciality": "Real Estate Law",
+      "Experience": "9+ Years Experience" ,
+      "LicenseNumber": "BAR-20210611",
+      "Fee": 115,
+      "Availability": ["Thursday", "Friday", "Sunday"]
+    }
+  ]
