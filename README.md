@@ -30,5 +30,13 @@ Live Site: [lawyer-bd.vercel.app](https://lawyer-bd.vercel.app)
 
 ---
 
+## 🧪 How to Run Locally
+
+```bash
+git clone :https://github.com/jerinjamandev/lawyer.bd.git
+cd lawyer-bd
+npm install
+npm run dev
+
 
 
